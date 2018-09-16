@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-07-17 02:31:24" Modified_Date="2018-08-26 06:06:44" Creator="lubo" Comments="" ID="83867009f28d596e75b86c5b924ce4f3">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-07-17 02:31:24" Modified_Date="2018-09-08 11:13:32" Creator="lubo" Comments="" ID="2bd9b824a743d3548d3e51aa56557a43">
   <Library_General_Settings>
     <Package_File_Name>LabVIEW_Universal_Transcriptor_lib_Complex_Numbers_Static</Package_File_Name>
-    <Library_Version>0.3.0.8</Library_Version>
+    <Library_Version>0.3.0.9</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -863,7 +863,7 @@
         <Path>..\Reciprocal.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2D0926D836A38C0898B48045ADE282A6</GUID>
+      <GUID>20CA40E5DADB94AA3EE9998E70ACBD37</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
